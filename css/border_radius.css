@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+}
+
+p {
+  background-color: pink;
+  margin: 0;
+  width: 160px;
+  height: 160px;
+  /* border-radius: 16px; */
+  /* border-radius: 16px 0 16px 32px; */
+  border-radius: 50%;
+  border: 8px solid blue;
+}
